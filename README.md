@@ -1,1 +1,1 @@
-# reactjs-boiler-plate-tailwind
+# boiler plate code for Tailwind + ReactJs
